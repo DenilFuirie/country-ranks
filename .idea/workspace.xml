@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab07490b-9962-4c09-a6c3-997391155976" name="Default Changelist" comment="sort by population">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
       <workItem from="1617445669232" duration="3852000" />
       <workItem from="1617612618072" duration="3184000" />
       <workItem from="1617615881102" duration="60000" />
+      <workItem from="1617616049531" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1617613646009</created>
@@ -112,10 +113,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1239" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617615878220" />
-    <state x="500" y="281" key="Vcs.Push.Dialog.v2" timestamp="1617615970328">
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2" timestamp="1617616111134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617615970328" />
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617616111134" />
     <state x="1084" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1617447309544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
