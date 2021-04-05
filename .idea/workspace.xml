@@ -19,16 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab07490b-9962-4c09-a6c3-997391155976" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ab07490b-9962-4c09-a6c3-997391155976" name="Default Changelist" comment="did some styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1617445668034</updated>
       <workItem from="1617445669232" duration="3852000" />
-      <workItem from="1617612618072" duration="980000" />
+      <workItem from="1617612618072" duration="2840000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1617613646009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617613646009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,11 +87,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="did some styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="did some styles" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1239" y="292" key="FileChooserDialogImpl" timestamp="1617448643312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1239" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617448643312" />
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2" timestamp="1617613671997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617613671997" />
     <state x="1084" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1617447309544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
