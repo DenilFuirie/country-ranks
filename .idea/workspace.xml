@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab07490b-9962-4c09-a6c3-997391155976" name="Default Changelist" comment="did some styles">
+    <list default="true" id="ab07490b-9962-4c09-a6c3-997391155976" name="Default Changelist" comment="sort by population">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/CountriesTable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1617445668034</updated>
       <workItem from="1617445669232" duration="3852000" />
-      <workItem from="1617612618072" duration="2840000" />
+      <workItem from="1617612618072" duration="3184000" />
+      <workItem from="1617615881102" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1617613646009</created>
@@ -69,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617613646009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sort by population">
+      <created>1617615814120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617615814120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sort by population">
+      <created>1617615843801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617615843801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,17 +104,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="did some styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="did some styles" />
+    <MESSAGE value="sort by population" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort by population" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1239" y="292" key="FileChooserDialogImpl" timestamp="1617448643312">
+    <state x="1239" y="292" key="FileChooserDialogImpl" timestamp="1617615878220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1239" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617448643312" />
-    <state x="500" y="281" key="Vcs.Push.Dialog.v2" timestamp="1617613671997">
+    <state x="1239" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617615878220" />
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2" timestamp="1617615970328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617613671997" />
+    <state x="500" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617615970328" />
     <state x="1084" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1617447309544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
